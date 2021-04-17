@@ -67,7 +67,7 @@ jobs:
         run: |
           remotes::install_deps(dependencies = TRUE)
           remotes::install_cran("rcmdcheck")
-          devtools::install_github("franciscorichter/emphasis")
+          remotes::install_github("franciscorichter/emphasis")
         shell: Rscript {0}
 
       - name: Check
