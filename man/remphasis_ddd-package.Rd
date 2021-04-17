@@ -1,6 +1,5 @@
-\name{remphasis_ddd-package}
-\alias{remphasis_ddd-package}
-\alias{remphasis_ddd}
+\name{emphasispd-package}
+\alias{emphasispd-package}
 \docType{package}
 \title{
   A short title line describing what the package does
