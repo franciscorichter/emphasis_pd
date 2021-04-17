@@ -1,6 +1,6 @@
 Package: emphasisdd
 Type: Package
-Title: Support package for emphasis
+Title: Support Package For Emphasis
 Version: 1.0
 Date: 2020-04-26
 Authors@R: c(person("Francisco","Richter", email = "f.richter@rug.nl", role = c("aut", "cre")),
